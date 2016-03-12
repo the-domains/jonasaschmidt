@@ -1,7 +1,7 @@
 name: Jonas A. Schmidt
 favicon: null
-layout_spectrum: 0.8390714428387582
-typography_spectrum: 0.3545574857853353
+layout_spectrum: 1
+typography_spectrum: 0.33648
 title: Me myself and I.
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.8254536220338196
-  lightness: 0.7708831073250622
-  saturation: 0.0857386791612953
+    - '#012243'
+    - '#dda06a'
+    - '#574c50'
+    - '#886454'
+    - '#b38470'
+  brandStrength: 0.9375
+  lightness: 0.8125
+  saturation: 0.1875
   rhythmicContrast: 0.8135853798594326
 purpose: []

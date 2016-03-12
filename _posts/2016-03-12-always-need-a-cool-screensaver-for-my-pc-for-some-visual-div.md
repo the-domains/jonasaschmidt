@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-12T19:36:57.282Z'
-dateModified: '2016-03-12T19:36:56.833Z'
-title: ''
+datePublished: '2016-03-12T19:39:23.556Z'
+dateModified: '2016-03-12T19:39:22.921Z'
+title: Screensaver
 author: []
 authors: []
 publisher:
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 ## Always need a cool screensaver for my pc for some visual diversity once in a while.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3433027-2285-47f3-9cd7-8937cda8a3d5.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4623ed59-2493-4e10-9461-2f17e19e6bf0.png)
 
 Get it here if you like it too: [http://www.saver.is/][0]
 

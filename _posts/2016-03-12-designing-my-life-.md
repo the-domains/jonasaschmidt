@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Just got my BETA activation from http://thegrid.io and want to explore how to build an A.I. powered website. '
-datePublished: '2016-03-12T19:04:38.628Z'
-dateModified: '2016-03-12T19:03:54.776Z'
+datePublished: '2016-03-12T19:10:46.717Z'
+dateModified: '2016-03-12T19:04:42.740Z'
 title: Designing my life ...
 author: []
 sourcePath: _posts/2016-03-12-designing-my-life-.md

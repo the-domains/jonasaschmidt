@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Just got my BETA activation from http://thegrid.io and want to explore how to build an A.I. powered website. '
-datePublished: '2016-03-12T19:10:46.717Z'
-dateModified: '2016-03-12T19:04:42.740Z'
+datePublished: '2016-03-12T19:17:42.509Z'
+dateModified: '2016-03-12T19:17:40.118Z'
 title: Designing my life ...
 author: []
 sourcePath: _posts/2016-03-12-designing-my-life-.md
@@ -23,8 +23,9 @@ _type: Article
 
 ---
 # Designing my life ...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8110644c-800b-492b-b542-b583f31cb44c.jpg)
 
-Just got my BETA activation from [http://thegrid.io][0] and want to explore how to build an A.I. powered website. ![A portrait of me, Jonas A. Schmidt](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92014c4e-2419-428f-8283-805398618442.jpg)
+Just got my BETA activation from [http://thegrid.io][0] and want to explore how to build an A.I. powered website. 
 
 Not knowing what to post first -- as I am not too much in favour of Taylor Swift (the wizard suggests to put some photos of her in my first post) -- I flatly decided to start with something I am really passionate about ... design. 
 > 

@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-12T19:45:34.857Z'
-dateModified: '2016-03-12T19:44:14.648Z'
+description: 'Get it here if you like it too: http://www.saver.is/'
+datePublished: '2016-03-12T19:45:53.083Z'
+dateModified: '2016-03-12T19:45:41.644Z'
 title: Screensaver
 author: []
+sourcePath: _posts/2016-03-12-always-need-a-cool-screensaver-for-my-pc-for-some-visual-div.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-always-need-a-cool-screensaver-for-my-pc-for-some-visual-div.md
-published: true
 url: always-need-a-cool-screensaver-for-my-pc-for-some-visual-div/index.html
 _type: Article
 

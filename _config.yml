@@ -1,0 +1,28 @@
+name: Jonas A. Schmidt
+favicon: null
+layout_spectrum: 0.8390714428387582
+typography_spectrum: 0.3545574857853353
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8254536220338196
+  lightness: 0.7708831073250622
+  saturation: 0.0857386791612953
+  rhythmicContrast: 0.8135853798594326
+purpose: []

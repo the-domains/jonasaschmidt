@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'For chill-out reasons on a summer holiday or to disguise on hung over days ... good sunglasses are a must from time to time, also as a style item and fashion statement and for eye protection of course. '
-datePublished: '2016-03-13T10:21:20.771Z'
-dateModified: '2016-03-13T10:21:19.974Z'
+datePublished: '2016-03-13T19:19:49.971Z'
+dateModified: '2016-03-13T10:21:55.362Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-13-i-wear-my-sunglasses-at-night.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-13-i-wear-my-sunglasses-at-night.md
-published: true
 url: i-wear-my-sunglasses-at-night/index.html
 _type: Article
 

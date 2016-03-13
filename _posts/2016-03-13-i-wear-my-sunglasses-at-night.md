@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'For chill-out reasons on a summer holiday or to disguise on hung over days ... good sunglasses are a must from time to time, also as a style item and fashion statement and for eye protection of course. '
-datePublished: '2016-03-13T19:19:49.971Z'
-dateModified: '2016-03-13T10:21:55.362Z'
+datePublished: '2016-03-13T19:21:26.017Z'
+dateModified: '2016-03-13T19:20:59.826Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-13-i-wear-my-sunglasses-at-night.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 ## I wear my sunglasses at night. 🎶 
 
-For chill-out reasons on a summer holiday or to disguise on hung over days ... good sunglasses are a must from time to time, also as a style item and fashion statement and for eye protection of course. ![Ray Ban Erika (Color: Havana)](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9e12ee2-0add-4d60-b7ba-0e5c19610623.jpg)
+For chill-out reasons on a summer holiday or to disguise on hung over days ... good sunglasses are a must from time to time, also as a style item and fashion statement and for eye protection of course. ![Ray Ban Erika (Color: Havana)](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f11f79450d620721309394c05644c0331a98217c.jpg)
 
 Apart from classics like _Ray-Ban__Wayfarer_, _Aviator_ or  _Clubmaster_ there's also younger models like the new [_Erika_][0] I like very much for it's vintage style, creating a slight retro look. I comes in black, havana (my favorite and the one I got) and brown that actually looks like nude skin.
 ![Ray Ban Erika (Color: Brown)](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6090e24-3f71-4946-a2e7-82351b40bca8.jpg)
